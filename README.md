@@ -1,5 +1,6 @@
 Disk image test suite for OS X.
 ===============================
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/unixorn/osx-dmg-tests?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 I used a superset of these tests to test the golden master OS X
 disk images I used to create at Google.
